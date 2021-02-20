@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+    <string name="logo">Logo</string>
+    <string name="hello_blank_fragment">Home Fragment</string>
+    <string name="blank_frag">Blank</string>
+    <string name="services_provide">Choose the services you require</string>
+</resources>
